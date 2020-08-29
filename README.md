@@ -1,6 +1,7 @@
 Introduction
 ============
 
+<<<<<<< HEAD
 [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
 [![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
 [![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
@@ -119,3 +120,6 @@ Image Credits
 [Unsplash](https://unsplash.com/)
 
 [Uifaces](http://uifaces.com/)
+=======
+
+>>>>>>> a8fc3c8ecc2a11219ab40491787a313f97731dec
